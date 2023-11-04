@@ -4,43 +4,43 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     summary: "u dont matter, give up",
   },
 ];

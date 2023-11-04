@@ -7,7 +7,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -15,7 +15,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -23,7 +23,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -31,7 +31,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -39,7 +39,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -47,7 +47,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -55,7 +55,7 @@ const dummyData = [
   {
     image:
       "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
-    title: "How to kill urself",
+    title: "Wissenaire",
     price: 120,
     rating: 2.4,
     time: "1hr",
@@ -76,7 +76,7 @@ const Card = (props) => {
         <div className="d-flex flex-row justify-content-between">
           <div className="d-flex flex-row align-items-center justify-content-center">
             <AiFillStar />
-            <p className="p-3">{rating}</p>
+            <p className="p-3 ">{rating}</p>
           </div>
 
           <p className="p-3">${price}</p>
